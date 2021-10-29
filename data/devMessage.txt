@@ -1,2 +1,1 @@
-This is a message by the developer
-Hi
+Message by Developer
